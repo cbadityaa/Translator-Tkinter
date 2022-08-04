@@ -11,6 +11,6 @@
 ## How the Translator works?
 ![](https://github.com/cbadityaa/Translator-Tkinter/blob/master/Demo.gif)
 ## How can you use it?
-* Go to the <a href="https://github.com/cbadityaa/Translator-Tkinter/releases">here</a>.
+* <a href="https://github.com/cbadityaa/Translator-Tkinter/releases">Click here</a>.
 * Download the source code(zip)
 * Then goto the Translator App folder in the zip,then open Translator.exe.
