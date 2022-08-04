@@ -10,6 +10,7 @@
 * Translation is allowed only through text/typing into the application.
 ## How the Translator works?
 ![](https://github.com/cbadityaa/Translator-Tkinter/blob/master/Demo.gif)
-## How to download this translator?
-* You can download it from the link given below.<br>
-<a href="https://github.com/cbadityaa/Translator-Tkinter/releases">Translator</a>
+## How can you use it?
+* Go to the <a href="https://github.com/cbadityaa/Translator-Tkinter/releases">here</a>.
+* Download the source code(zip)
+* Then goto the Translator App folder in the zip,then open Translator.exe.
